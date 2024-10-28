@@ -1,5 +1,4 @@
-To write maintainable, readable, and adaptable programs, I would focus on clear variable naming, modular design, and consistent documentation For example, in the CRUD Python module from Project One, I organized functions for creating, reading, updating, and deleting records to ensure easy connection with the dashboard widgets in Project Two. Working this way streamlined data access and visualization, and I could adapt this module for other database projects needing efficient CRUD operations.
-
+To write maintainable, readable, and adaptable programs, I would focus on clear variable naming, modular design, and consistent documentation. For example, in the CRUD Python module from Project One, I organized functions for creating, reading, updating, and deleting records and made sure each function worked properly. 
 
 As a computer scientist, I break down problems into smaller tasks, such as analyzing requirements and designing database structures that meet them, like I did for Grazioso Salvare’s database. My approach to this project was more structured compared to previous assignments, requiring a deeper understanding of both backend functionality and frontend design for a real client. In the future, I’d use similar strategies like entity-relationship modeling and user-centered design to create responsive, efficient databases for clients.
 
